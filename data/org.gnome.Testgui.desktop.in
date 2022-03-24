@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=testgui
+Exec=testgui
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

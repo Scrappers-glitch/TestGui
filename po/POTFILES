@@ -1,0 +1,5 @@
+data/org.gnome.Testgui.desktop.in
+data/org.gnome.Testgui.appdata.xml.in
+data/org.gnome.Testgui.gschema.xml
+src/testgui-window.uisrc/main.c
+src/testgui-window.c

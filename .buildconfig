@@ -1,0 +1,9 @@
+[default-2]
+name=Default (Copy)
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/pavl/.cache/gnome-builder/install/TestGui/host
+app-id=
+postbuild=
+prebuild=
